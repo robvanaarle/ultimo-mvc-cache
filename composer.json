@@ -1,5 +1,5 @@
 {
-    "name": "robvanaarle/ultimo-orm-mvc",
+    "name": "robvanaarle/ultimo-mvc-cache",
     "description": "Caching for Ultimo MVC",
     "type": "library",
     "keywords": [
