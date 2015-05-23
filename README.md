@@ -8,7 +8,7 @@ Caching for Ultimo MVC
 * Ultimo MVC
 
 ## Usage
-	$cache = $application->getPlugin('cache');
+        $cache = $application->getPlugin('cache');
         $data = $cache->loadOrUpdate('some_key', function() {
             return expensive_method_to_retrieve_data();
           },
